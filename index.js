@@ -13,4 +13,4 @@ currentGame.start();
 =======
 const currentGame = new Game();
 currentGame.start();
->>>>>>> 7a725bbf00a6705aec75717c60ba2819c218ee4b
+
