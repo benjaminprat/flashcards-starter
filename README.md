@@ -8,6 +8,7 @@ This application was developed for a Mod2 project at the Turing School of Softwa
 Open your terminal and run the command: git clone https://github.com/benjaminprat/flashcards-starter.git
 
 cd into the repository
+run npm install
 
 Run the command node index.js to start the game
 
